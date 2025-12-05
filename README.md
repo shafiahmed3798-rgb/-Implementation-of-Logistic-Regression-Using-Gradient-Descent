@@ -62,8 +62,8 @@ print("Final Theta Values:", theta)
 
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: 
-RegisterNumber:  
+Developed by: Shafi Ahmed MS
+RegisterNumber: 25014933
 */
 ```
 
